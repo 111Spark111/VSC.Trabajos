@@ -5,3 +5,4 @@ name = input("Pon tu apellido: ")
 print ("Hola soy "+ nombre +" " + name)
 edad = input("Cual es tu edad: ")
 print ("hola soy "+ nombre + " "+ name +" y tengo "+ edad +" Años")
+#intento de comprobar cambios
