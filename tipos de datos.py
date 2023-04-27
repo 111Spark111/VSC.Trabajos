@@ -3,7 +3,8 @@ peso=1
 estatura=1
 imc=0
 #____________________________ignorar las definiciones de bariables por ariba de esta linea_______________________________________________________________
-#                          Buscar funciones propias del python (len,float, int, str,type, list,count, tupla)
+#                    Buscar funciones propias del python (len,float, int, str,type, list,count, tupla)
+
 print("IMC: {:.2k}".format(imc))
 inc=peso /(estatura**2)
 

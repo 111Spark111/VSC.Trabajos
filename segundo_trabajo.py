@@ -20,3 +20,8 @@ estudiantes = "matias","marco","cristobal"
 num = [1,2,3,4,5,6]
 print(estudiantes)
 print(num)
+
+#Concadenar tanto con "+" como con "," y con "f"
+est:1
+pes:2
+print(f"la {est} y el {pes}")
