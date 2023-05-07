@@ -10,7 +10,7 @@ print(numeros,palabras)
 print(len(palabras))
 print(palabras[2])
 #___________________________________________________________Clase___________________________________________________________________________
-#                                                         (Claves)
+#                                                          (Claves)
 datos_personales= {
     "nombre":{"carlos"},
     "apellido":{"Rivera"},
