@@ -25,7 +25,7 @@ p=(z+x+c)/2
 area=(p*(p-z)*(p-x)*(p-c))**0.5
 
 if z==x==c:
-    print(f"es equilatero, de area {area}")
+    print(f"es equilatero, de area {area:.2}")
 elif z<x==c or z==x<c or z==c<x:
     print(f"es escaleno de area {area}")
 else:
