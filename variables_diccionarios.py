@@ -18,4 +18,4 @@ datos_personales= {
     "ColoColo":{"Campeon"}
 }
 print(len(datos_personales))
-del datos_personales("nombre")#eliminar campo/clave del diccionario
+#del datos_personales("nombre")     #eliminar campo/clave del diccionario

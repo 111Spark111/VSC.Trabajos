@@ -9,8 +9,7 @@ print("no se que hace esto {:.2f}".format(a))#el {:.2f} son cuantos decimales de
 c2=complex(3,-5)#una parte real y la parte imaginaria despues de la coma
 print(" hola " * 10)#aparesera "hola" 10 veses
 print(" hola "*(int((9*2)/5)),"/n")# int=entero
-#____________________________________________________________Terminos en operaciones_______________________________________________________
-
+#____________________________________________________________Terminos en operaciones________________________________
 # a==b se afirma que "a" tendra el mismo valor que "b"
 e==r
 # simbolo de distinto =!
@@ -21,7 +20,7 @@ animal2="leopardo"
 print(animal1<animal2)#esto es incorecto
 print(len(animal1)<len(animal2))# len= esto lee el numero de elementos
 
-#___________________________________________________boleanos________________________________________________________________________________
+#___________________________________________________boleanos_________________________________________________________
 
 bencina = False
 encendido = True
